@@ -1,5 +1,5 @@
-# baseline model with data augmentation for the dogs vs cats dataset
-# baseline model with dropout for the dogs vs cats dataset
+
+# model with dropout for the dogs vs cats dataset
 import sys
 from matplotlib import pyplot
 from keras.utils import to_categorical

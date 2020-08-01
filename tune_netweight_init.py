@@ -1,4 +1,5 @@
 # Use scikit-learn to grid search the weight initialization
+
 import numpy
 from sklearn.model_selection import GridSearchCV
 from keras.models import Sequential
