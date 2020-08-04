@@ -3,6 +3,7 @@ from sklearn.model_selection import GridSearchCV
 from keras.models import Sequential
 from keras.layers import Dense
 from keras.wrappers.scikit_learn import KerasClassifier
+
 # Function to create model, required for KerasClassifier
 def create_model():
 	# create model
